@@ -1,5 +1,4 @@
 // LE NGOC QUYEN NGUYEN
-package com.example;
 
 class Person {
     private String firstName;
