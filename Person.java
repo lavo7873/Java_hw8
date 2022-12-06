@@ -1,4 +1,4 @@
-// LE NGOC QUYEN NGUYEN
+// Lam Vinh Vong
 
 class Person {
     private String firstName;
